@@ -1,3 +1,4 @@
+![logo](https://github.com/user-attachments/assets/f3af0103-8cdf-4588-a1cc-ad8121ed7271)
 
 # veriface
 
